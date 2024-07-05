@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+.DS_Store
+touchdesigner-project/Image/.DS_Store
+touchdesigner-project/.DS_Store
+touchdesigner-project/.DS_Store
+touchdesigner-project/Audio/.DS_Store
+touchdesigner-project/.DS_Store
+touchdesigner-project/.DS_Store
+touchdesigner-project/Audio/.DS_Store
+touchdesigner-project/Image/.DS_Store
+touchdesigner-project/.DS_Store
+touchdesigner-project/Audio/.DS_Store
+touchdesigner-project/Image/.DS_Store
+wake-words-recognition/config.py
+touchdesigner-project/.DS_Store
+touchdesigner-project/Dataset/.DS_Store
+touchdesigner-project/Image/.DS_Store
+
+v2/touchdesigner-project/Export
+
+external_mod/wake-words-recognition/config.py
